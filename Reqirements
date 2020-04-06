@@ -1,0 +1,13 @@
+Packages to install
+------------------
+
+1) Pip # for installing Python
+2) Python latest version
+3) Selenium 
+
+
+Files
+--------
+4) Selenium Chrome WebDrivers ## in this project im using Chrome Browser 
+5) PythonTest.py 
+6) index.html
